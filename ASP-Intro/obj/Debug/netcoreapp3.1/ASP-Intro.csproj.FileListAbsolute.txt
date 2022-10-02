@@ -30,3 +30,9 @@ C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug
 C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\ASP-Intro.Views.pdb
 C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\ASP-Intro.csproj.CopyComplete
 C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Register\Index.cshtml.g.cs
+C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\azerh\Desktop\C# Html\Asp.net\ASP - Intro\ASP-Intro\ASP-Intro\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs

@@ -1,0 +1,12 @@
+﻿@{ 
+    string[] price = { "200", "500", "305", "500" };
+}
+
+<h1 style="color:powderblue;text-align:center">Product</h1>
+
+<ul style=" list-style-type: none;">
+    @foreach (var item in price)
+    {
+        <li>@item</li>
+    }
+</ul>
